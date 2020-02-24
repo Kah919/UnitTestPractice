@@ -1,0 +1,23 @@
+{
+  "name": "UnitTestPractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kah919/UnitTestPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kah919/UnitTestPractice/issues"
+  },
+  "homepage": "https://github.com/Kah919/UnitTestPractice#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
